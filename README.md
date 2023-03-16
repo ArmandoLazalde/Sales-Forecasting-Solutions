@@ -10,7 +10,7 @@ For this project we are provided with historical sales data for 45 Walmart store
 
 * Generate a sales visualization and analysis tool using a BI solution
 
-**Note: I have divided the project into several notebooks for each of the models used for sales forecasting. I also recommend to check the notebooks in kaggle because in github the plotly graphs are not displayed. I leave the link below:**
+**Note: I have divided the project into several notebooks for each of the models used for sales forecasting. I also recommend to check the notebooks in Kaggle because in Github the plotly graphs are not displayed. I leave the link below:**
 
 
 * [Exploratory Data Analysis](https://www.kaggle.com/code/armandodelahoya/walmart-sales-forecasting-eda/notebook)
