@@ -1,6 +1,10 @@
-# Walmart-Sales-Forecasting
+# Sales Forecasting Solutions
 
-In this first version of the project the objective will be: 
+<p align="center">
+  <img src="https://www.saleshacker.com/wp-content/uploads/2017/05/sales-forecasting-metrics-1024x768.jpg" />
+</p>
+
+For this project we are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. In this first version of the project the objective will be: 
 
 * Predicting store-level sales behavior through time series modeling with some of the libraries available in Python
 
