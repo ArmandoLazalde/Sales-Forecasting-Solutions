@@ -21,7 +21,7 @@ For this project we are provided with historical sales data for 45 Walmart store
 * [Github repository](https://github.com/ArmandoLazalde/Walmart-Sales-Forecasting)
 
 
-## Results
+## Conclusions
 
 * By evaluating with the MAPE metric we obtain acceptable performance. However, it is possible to improve both models by considering exogenous variables provided in the dataset such as temperature, CPI, and inflation rate. As well as regressors or a combination of more sophisticated models.
 
