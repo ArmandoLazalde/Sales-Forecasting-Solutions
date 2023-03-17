@@ -20,3 +20,11 @@ For this project we are provided with historical sales data for 45 Walmart store
 * [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWFjYWU0ZTktNjFiYS00Zjg3LTg0M2MtOTMzM2M0MjQ5OThmIiwidCI6IjAyNDlhNTcxLWI5YTItNGNhMi1iOTNiLTIwYzc3MDg4ZjA4YiJ9)
 * [Github repository](https://github.com/ArmandoLazalde/Walmart-Sales-Forecasting)
 
+
+## Results
+
+* By evaluating with the MAPE metric we obtain acceptable performance. However, it is possible to improve both models by considering exogenous variables provided in the dataset such as temperature, CPI, and inflation rate. As well as regressors or a combination of more sophisticated models.
+
+* Both, Prophet and Neural Prophet, present good results, however, the former has shorter run times when working with a large number of stores.
+
+* The application of sales forecasting with these models is intuitive and user-friendly for data scientists.
